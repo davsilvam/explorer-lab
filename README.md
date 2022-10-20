@@ -1,48 +1,37 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+# Explorer Lab #01
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
+## :file_folder: **Projeto**
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. Neste evento, desenvolvi este projeto que se baseia em uma aplicação que permite o cadastro dinâmico de cartões.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+*"O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM."*
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## :link: **Link**
+*[Link do projeto.](https://explore-lab.vercel.app)*
 
 <br>
 
 <p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+## :art: **Visual do Projeto**
+<p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## :wrench: **Tecnologias**
+Tecnologias utilizadas no projeto.
+* HTML;
+* CSS;
+* JavaScript e JSON;
+* [Node e NPM](https://nodejs.org/);
+* [Vite](https://vitejs.dev/);
+* [iMask](https://imask.js.org).
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
-
-## 💻 Projeto
-
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
+## :memo: **Licença**
 
 Esse projeto está sob a licença MIT.
 
----
+Feito com ♥ por Rocketseat e com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+---
