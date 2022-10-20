@@ -8,8 +8,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 ## :link: **Link**
 *[Link do projeto.](https://explore-lab.vercel.app)*
 
-<br>
-
 ## :art: **Visual do Projeto**
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
