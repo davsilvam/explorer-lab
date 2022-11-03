@@ -6,7 +6,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 *"O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM."*
 
 ## :link: **Link**
-*[Link do projeto.](https://explore-lab.vercel.app)*
+*[Link do projeto.](https://explorer-lab-jet.vercel.app)*
 
 ## :art: **Visual do Projeto**
 <p align="center">
