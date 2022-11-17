@@ -1,12 +1,15 @@
 # Explorer Lab #01
 
-## :file_folder: **Projeto**
+
+## :credit_card: **Projeto**
+
+> "O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM."
+
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. Neste evento, desenvolvi este projeto que se baseia em uma aplicação que permite o cadastro dinâmico de cartões.
 
-*"O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM."*
-
-## :link: **Link**
-*[Link do projeto.](https://explorer-lab-jet.vercel.app)*
+<p align="center">
+   <a href="https://explorer-lab-jet.vercel.app">Veja o projeto completo aqui.</a>
+</p>
 
 ## :art: **Visual do Projeto**
 <p align="center">
