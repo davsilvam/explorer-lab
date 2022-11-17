@@ -33,6 +33,6 @@ Esse projeto está sob a licença MIT.
   <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-Feito com ♥ por Rocketseat e com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
+Feito com ♥ por [Rocketseat](https://app.rocketseat.com.br) e com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
 
 ---
